@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Primeiro teste com a Vercel</h1>;
+  return <h1>Novo deploy na Vercel =)</h1>;
 }
 
 export default Home;
