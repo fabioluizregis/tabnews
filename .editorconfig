@@ -1,0 +1,7 @@
+root = true
+
+#Por convenção, arquivos.js utilizam 2 espaços de identação
+# [*] serve para aplicar em tudo, mas poderia colocar para um tipo específico de arquivo Ex.: [.js]
+[*]
+indent_style = space
+indent_size = 2
